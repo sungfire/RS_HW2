@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+# Kaggle competition data (not redistributable) and the assignment sheet
+data/
+*.zip
+*.docx
+# model checkpoints
+results/ckpt/
+# report material
+/*.png
+/*.pdf

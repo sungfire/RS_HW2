@@ -1,0 +1,6 @@
+{
+  "model": "EASE",
+  "input": "rating",
+  "lambda": 2000,
+  "ndcg@20": 0.1598633311181059
+}

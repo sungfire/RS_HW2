@@ -1,0 +1,4 @@
+# torch==2.5.1 is installed from the CUDA 12.1 index (see README)
+numpy==1.26.4
+pandas==3.0.6
+scipy==1.17.1

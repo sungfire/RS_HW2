@@ -1,0 +1,16 @@
+{
+  "model": "neumf",
+  "f": 32,
+  "neg": 4,
+  "lr": 0.01,
+  "wd": 0.0,
+  "opt": "sgd",
+  "batch": 1024,
+  "max_epochs": 100,
+  "patience": 10,
+  "seed": 2026,
+  "name": "neumf-f32-pre-sgd0.01",
+  "best_epoch": 5,
+  "ndcg@20": 0.134199948700396,
+  "pretrain": true
+}
